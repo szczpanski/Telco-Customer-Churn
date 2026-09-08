@@ -240,8 +240,8 @@ telco-churn-challenge/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-│   ├── 01_EDA.ipynb
-│   └── 02_Modeling.ipynb
+│   ├── EDA.ipynb
+│   └── Modeling.ipynb
 ├── src/
 │   ├── __init__.py
 │   ├── data_preprocessing.py
