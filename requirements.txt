@@ -1,0 +1,13 @@
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+xgboost>=2.1,<4
+shap>=0.46,<1
+matplotlib>=3.9,<4
+scipy>=1.13,<2
+joblib>=1.4,<2
+jupyter>=1.0,<2
+ipykernel>=6.29,<7
+streamlit>=1.38,<2
+pytest>=8.3,<9
+openpyxl>=3.1,<4
