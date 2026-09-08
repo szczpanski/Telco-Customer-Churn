@@ -1,6 +1,6 @@
 # Telco Customer Churn
 
-Projeto de Ciência de Dados para identificar clientes com maior risco de cancelamento (*churn*) em uma empresa de telecomunicações.
+Projeto para identificar clientes com maior risco de cancelamento (*churn*) em uma empresa de telecomunicações.
 
 A solução cobre análise exploratória, preparação dos dados, comparação de modelos, validação cruzada, tuning de hiperparâmetros, avaliação em holdout, análise de ranking, interpretabilidade e disponibilização dos resultados em Streamlit.
 
