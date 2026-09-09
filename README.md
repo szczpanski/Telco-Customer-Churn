@@ -220,18 +220,6 @@ A interpretação é preditiva, não causal. Os achados da EDA indicam que `Cont
 - ausência de função de custo operacional;
 - risco de churn não mede efeito causal da retenção.
 
-## Próximos passos
-
-- incorporar dados de uso e comportamento;
-- adicionar histórico de atendimento/reclamações;
-- adicionar histórico de pagamento;
-- avaliar calibração;
-- definir threshold por função de custo;
-- monitorar drift;
-- registrar experimentos com MLflow;
-- validar campanhas com A/B Testing;
-- avaliar uplift modeling.
-
 ## Estrutura do projeto
 
 ```text
